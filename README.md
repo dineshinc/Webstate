@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Webstate
 
 ## Technology Stack & Tools
 
@@ -25,7 +25,7 @@
 
 ### 5. Run deployment script
 In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+`$ npx hardhat run scripts/deploy.js --network localhost`
 
 ### 7. Start frontend
 `$ npm run start`
